@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WetableInterface</string>
+    <string name="animals_counter">Count of animals: </string>
+    <string name="cat_name_hint">Enter name of new cat there *</string>
+    <string name="cat_name_button">Add new cat!</string>
+    <string name="dog_name_button">Add new dog!</string>
+    <string name="dog_name_hint">Enter name of new dog here *</string>
+    <string name="new_cat_toast">New cat was create!</string>
+    <string name="new_dog_toast">New dog was create!</string>
+    <string name="wet_all">Wet all animals!</string>
+</resources>
